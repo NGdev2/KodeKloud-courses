@@ -1,7 +1,3 @@
-                Deploy Grafana on Kubernetes Cluster
-## 📌 Task Description
-The goal of this task is to deploy the **Grafana** monitoring application on a Kubernetes cluster and expose it using a **NodePort** service.
-
 ### Requirements
 
 1. Create a namespace named tomcat-namespace-datacenter.
