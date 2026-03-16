@@ -32,7 +32,7 @@ stapp03 ansible_host=172.16.238.12 ansible_user=banner ansible_password=BigGr33n
 
 ### 3. create file and add task inside
 ```shell
-touch /home/thor/ansible/playbook.ym
+touch /home/thor/ansible/playbook.yml
 vi /home/thor/ansible/playbook.yml
 
 - name: Create file on App Server 3
